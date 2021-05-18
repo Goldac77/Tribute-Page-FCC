@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  background-image: url("https://4kwallpapers.com/images/wallpapers/horizon-zero-dawn-aloy-scenery-game-art-landscape-5k-5120x2880-4414.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 1.256em;
+  padding-left: 3%;
+  padding-right: 3%;
+  font-family: 'Karla', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #FCBA03
+}
+
+#image{
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 3em;
+}
+
+#tribute-info{
+  padding-left: 12%;
+  padding-right: 12%;
+  background-color: rgba(111,143,175,0.45);
+  padding-top: 0.12%;
+  padding-bottom: 1%;
+  margin-top: 1%;
+  width: 100%;
+}
